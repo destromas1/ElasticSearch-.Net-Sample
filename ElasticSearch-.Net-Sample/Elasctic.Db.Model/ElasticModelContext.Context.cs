@@ -13,10 +13,10 @@ namespace Elasctic.Db.Model
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class ElasticModelContext : DbContext
+    public partial class ElasticDBEntities : DbContext
     {
-        public ElasticModelContext()
-            : base("name=ElasticModelContext")
+        public ElasticDBEntities()
+            : base("name=ElasticDBEntities")
         {
         }
     

@@ -12,3 +12,9 @@ D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer
 D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\obj\Debug\Elastic.Indexer.csprojResolveAssemblyReference.cache
 D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\obj\Debug\Elastic.Indexer.exe
 D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\obj\Debug\Elastic.Indexer.pdb
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Elasctic.Db.Model.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\EntityFramework.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Elasctic.Db.Model.pdb
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\EntityFramework.xml
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\EntityFramework.SqlServer.xml

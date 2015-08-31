@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Elasctic.Db.Model;
 
 namespace Elastic.Indexer
 {
@@ -10,6 +11,10 @@ namespace Elastic.Indexer
     {
         static void Main(string[] args)
         {
+            var context = new ElasticDBEntities();
+
+
+            var artists = context.Artists.ToList();
 
         }
     }
