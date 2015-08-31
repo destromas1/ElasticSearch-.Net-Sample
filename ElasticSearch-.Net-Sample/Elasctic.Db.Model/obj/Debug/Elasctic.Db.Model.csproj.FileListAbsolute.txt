@@ -1,0 +1,10 @@
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\bin\Debug\Elasctic.Db.Model.dll.config
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\bin\Debug\Elasctic.Db.Model.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\bin\Debug\Elasctic.Db.Model.pdb
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\bin\Debug\EntityFramework.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\bin\Debug\EntityFramework.xml
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\obj\Debug\Elasctic.Db.Model.csprojResolveAssemblyReference.cache
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\obj\Debug\Elasctic.Db.Model.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elasctic.Db.Model\obj\Debug\Elasctic.Db.Model.pdb

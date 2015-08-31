@@ -1,0 +1,14 @@
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Elastic.Indexer.exe.config
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Elastic.Indexer.exe
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Elastic.Indexer.pdb
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Elasticsearch.Net.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Nest.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Newtonsoft.Json.dll
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Elasticsearch.Net.pdb
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Elasticsearch.Net.xml
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Nest.pdb
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Nest.xml
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\bin\Debug\Newtonsoft.Json.xml
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\obj\Debug\Elastic.Indexer.csprojResolveAssemblyReference.cache
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\obj\Debug\Elastic.Indexer.exe
+D:\MyGitRepo\ElasticSearch-.Net-Sample\ElasticSearch-.Net-Sample\Elastic.Indexer\obj\Debug\Elastic.Indexer.pdb
